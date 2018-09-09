@@ -18,7 +18,7 @@ int main(int num1, int num2, char Operator)
     Operator=num1/num2; //inputs must be real numbers, decimal answers are displayed as zero
     printf("num1/num2 = %d \n",Operator);
     Operator=num1%num2; //inputs must be real numbers
-    printf("Remainder when a divided by num2 = %d \n",Operator);
+    printf("Remainder when num1 divided by num2 = %d \n",Operator);
     Operator = num1<<num2; //inputs must be real numbers
     printf ("num1 shifted left by num2 = %d \n", Operator);
     Operator = num1>>num2; //inputs must be real numbers
