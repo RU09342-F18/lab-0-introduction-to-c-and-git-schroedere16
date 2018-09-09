@@ -8,4 +8,4 @@ This code is able to perform addition, subtraction. multiplication, integer divi
 
 This code also performs the bitwise operations AND, OR, XOR, and INVERSE.
 
-This code requires two integer inputs and will then display the result of each mathematical function listed above. 
+This code requires two integer inputs and will then display the result of each function listed above. 
