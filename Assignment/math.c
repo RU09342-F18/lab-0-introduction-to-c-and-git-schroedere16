@@ -8,7 +8,7 @@ Author: Eric Schroeder*/
 
 int main(int num1, int num2, char Operator)
 {
-   
+   //User can define specific values for num1 and num2 here if desired
     Operator = num1+num2; //inputs must be real numbers 
     printf("num1+num2 = %d \n",Operator);
     Operator = num1-num2; //inputs must be real numbers
