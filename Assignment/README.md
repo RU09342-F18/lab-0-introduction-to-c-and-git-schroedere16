@@ -6,4 +6,6 @@ This code depends on the <math.h> library and the <stdio.h>
 
 This code is able to perform addition, subtraction. multiplication, integer division, and modulus on two integers.
 
+This code also performs the bitwise operations AND, OR, XOR, and INVERSE.
+
 This code requires two integer inputs and will then display the result of each mathematical function listed above. 
